@@ -31,7 +31,7 @@
   "homepage": "https://lernajs.io/",
   "dependencies": {
     "async": "^1.5.0",
-    "chalk": "^1.1.1",
+    "chalk": "^2.0.0",
     "cmd-shim": "^2.0.2",
     "columnify": "^1.5.4",
     "command-join": "^2.0.0",
@@ -45,11 +45,11 @@
     "glob": "^7.0.6",
     "globby": "^6.1.0",
     "graceful-fs": "^4.1.11",
-    "inquirer": "^3.0.6",
+    "inquirer": "^6.5.1",
     "load-json-file": "^2.0.0",
     "lodash": "^4.17.4",
     "minimatch": "^3.0.0",
-    "npmlog": "^4.0.2",
+    "npmlog": "^5.0.0",
     "p-finally": "^1.0.0",
     "path-exists": "^3.0.0",
     "read-cmd-shim": "^1.0.1",
@@ -63,7 +63,7 @@
     "write-file-atomic": "^1.3.3",
     "write-json-file": "^2.0.0",
     "write-pkg": "^2.1.0",
-    "yargs": "^7.1.0"
+    "yargs": "^13.2.4"
   },
   "bin": {
     "lerna": "./bin/lerna.js"
